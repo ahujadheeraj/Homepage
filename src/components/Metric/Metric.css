@@ -1,0 +1,46 @@
+.metric{
+    display: flex;
+    justify-content: space-between;
+    padding:100px;
+
+}
+
+.metric-left{
+    max-height: 367px;
+    min-height: 367px;
+    padding: 100px 30px;
+    align-items: center;
+    background-image: url(https://uploads-ssl.webflow.com/5c51758…/5d2d713…_opt-16-5.png);
+    text-align: initial;
+    box-sizing: border-box;
+    box-shadow: 0 20px 30px 0 rgba(15,97,221,.05);
+    width: 48%;
+
+}
+
+.metric-right{
+    text-align: initial;
+    width: 48%;
+    box-sizing: border-box;
+    margin-top: 0px;
+    font-family: Metropolis,sans-serif;
+    color: #0d2149;
+    font-size: 16px;
+    line-height: 30px;
+    padding :30px;
+    box-shadow: 0 20px 30px 0 rgba(15,97,221,.05);
+}
+
+.metric-left-content{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    font-family: Metropolis,sans-serif;
+    padding: 0px;
+    color: #0d2149;
+}
+
+.metric-right-content{
+    margin-top:20px;
+    color: #0d2149;
+}

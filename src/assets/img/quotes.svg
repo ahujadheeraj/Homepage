@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="50px" viewBox="0 0 58 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>two-quotes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-665.000000, -1149.000000)" fill="#0D2149" fill-rule="nonzero">
+            <g id="two-quotes" transform="translate(693.787879, 1174.000000) scale(-1, 1) translate(-693.787879, -1174.000000) translate(665.000000, 1149.000000)">
+                <path d="M11.044697,0 C4.94469697,0 0,5.08787879 0,11.3636364 C0,17.6401515 4.94469697,22.7272727 11.044697,22.7272727 C22.0886364,22.7272727 14.7257576,44.6969697 0,44.6969697 L0,50 C26.280303,50 36.580303,0 11.044697,0 Z M42.8628788,0 C36.7628788,0 31.8181818,5.08787879 31.8181818,11.3636364 C31.8181818,17.6401515 36.7628788,22.7272727 42.8628788,22.7272727 C53.9068182,22.7272727 46.5439394,44.6969697 31.8181818,44.6969697 L31.8181818,50 C58.0984848,50 68.3984848,0 42.8628788,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
