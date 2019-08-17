@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.0527e2c5.chunk.css",
+    "main.css": "/homepage/static/css/main.e28f3812.chunk.css",
     "main.js": "/homepage/static/js/main.04d10050.chunk.js",
     "main.js.map": "/homepage/static/js/main.04d10050.chunk.js.map",
     "runtime~main.js": "/homepage/static/js/runtime~main.b4e0eb11.js",
@@ -8,9 +8,9 @@
     "static/js/2.5d6d3ca4.chunk.js": "/homepage/static/js/2.5d6d3ca4.chunk.js",
     "static/js/2.5d6d3ca4.chunk.js.map": "/homepage/static/js/2.5d6d3ca4.chunk.js.map",
     "index.html": "/homepage/index.html",
-    "precache-manifest.4953dbddc491db5e83135d02374e35ff.js": "/homepage/precache-manifest.4953dbddc491db5e83135d02374e35ff.js",
+    "precache-manifest.cbbdc9ee9d23a77e4e729d35a6f131bd.js": "/homepage/precache-manifest.cbbdc9ee9d23a77e4e729d35a6f131bd.js",
     "service-worker.js": "/homepage/service-worker.js",
-    "static/css/main.0527e2c5.chunk.css.map": "/homepage/static/css/main.0527e2c5.chunk.css.map",
+    "static/css/main.e28f3812.chunk.css.map": "/homepage/static/css/main.e28f3812.chunk.css.map",
     "static/media/adt.svg": "/homepage/static/media/adt.f1be2b44.svg",
     "static/media/flipkart.svg": "/homepage/static/media/flipkart.7c01bfc0.svg",
     "static/media/honda.svg": "/homepage/static/media/honda.77d9431c.svg",
