@@ -1,0 +1,76 @@
+.section-head{
+    margin-bottom: 0;
+    font-family: Metropolis,sans-serif;
+    color: #0d2149;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    padding-bottom:17px; 
+}
+
+
+
+.section{
+    display: flex;
+    padding:50px 130px;
+    margin-left:70px ;
+    
+
+}
+
+.section-cont{
+    width: 48%;
+    padding: 25px;
+    border-style: solid;
+    border-radius: 10px;
+    background-image: url(https://uploads-ssl.webflow.com/5c51758…/5d2d713…_opt-16-6.png);
+    background-position: 100% 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-width: 1px;
+    border-color: rgba(13,33,73,.1);
+    box-sizing: border-box;
+    text-align: initial;
+    margin: auto 10px;
+}
+
+
+
+.section-content{
+    margin-bottom: 20px;
+    font-family: Metropolis,sans-serif;
+    color: #0d2149;
+    line-height: 28px;
+    font-size: 16px;
+}
+
+.section-cont button{
+    width: 12%;
+    min-width: 0;
+    margin:20px auto;
+    margin-bottom:0px; 
+    display: block;
+    height: 50px;
+    min-width: 150px;
+    border: 1.5px solid #0f61dd;
+    border-radius: 6px;
+    background-color: #0f61dd;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    font-weight: 600;
+    padding: 0 30px;
+    line-height: 50px;
+    text-align: center;
+    font-family: Metropolis,sans-serif;
+    letter-spacing: .5px;
+    color:white;
+    font-size: 14px;
+}
+
+.section-content button:hover{
+    box-shadow: 0 10px 20px 0 rgba(15,97,221,.25);
+    -webkit-transform: translate(0,-2px);
+    -ms-transform: translate(0,-2px);
+    transform: translate(0,-2px);
+}
+

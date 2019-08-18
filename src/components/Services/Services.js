@@ -10,9 +10,7 @@ const services = (props) => (
     <div className = "services">
         <Billing />
         <Ecto />
-        <Reserve />
-        <Autoscale />
-        <Idle />
+
 
     </div>
 )
