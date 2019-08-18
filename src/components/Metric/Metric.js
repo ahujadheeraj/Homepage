@@ -1,6 +1,7 @@
 import React from 'react'
 import './Metric.css'
 import Quotes from '../../assets/img/quotes.svg'
+import Profile from '../../assets/img/sethura.svg'
 
 const metric = (props) => (
     <div className = "metric">
@@ -25,8 +26,15 @@ const metric = (props) => (
                 and minimize friction in the incident response process. It really is time
                 for SREs to have the right tool set that supports them in their mission.
             </div>
-            <h4 style = {{fontSize:"18px" ,marginLeft:"27%"}}>Sethu Vinaitheerthan</h4>
-            <p style = {{fontSize:"16px",marginLeft:"27%",lineHeight:"0px"}}>Director of Engineering at Zenefits</p>
+            <div style = {{display:"flex",width:"100%",boxSizing:"border-box"}}>
+            <img src = {Profile} alt = "profile" />
+            <div>
+            <h4 style = {{fontSize:"18px" ,marginLeft:"10%",marginBottom:"3px"}}>Sethu Vinaitheerthan</h4>
+            <p style = {{fontSize:"16px",marginLeft:"10%",lineHeight:"20px",marginTop:"0",width:"100%"}}>Director of Engineering at Zenefits</p>
+            </div>
+
+            </div>
+            
         </div>        
     </div>
 )
